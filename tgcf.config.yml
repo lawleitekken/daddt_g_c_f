@@ -8,27 +8,27 @@ forwards:
 - source: -1001606767095
   dest:
   - -1001734966669
-  offset: 822
+  offset: 824
   end: 0
 - source: -1001727393350
   dest:
   - -1001622268770
-  offset: 1407
+  offset: 1419
   end: 0
 - source: -1001594880465
   dest:
   - -1001621183531
-  offset: 690
+  offset: 699
   end: 0
 - source: -1001510461643
   dest:
   - -1001629085523
-  offset: 727
+  offset: 736
   end: 0
 - source: -1001659218628
   dest:
   - -1001796065683
-  offset: 403
+  offset: 410
   end: 0
 show_forwarded_from: false
 live:
