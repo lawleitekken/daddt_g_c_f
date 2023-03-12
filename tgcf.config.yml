@@ -13,7 +13,7 @@ forwards:
 - source: -1001727393350
   dest:
   - -1001622268770
-  offset: 2103
+  offset: 2106
   end: 0
 - source: -1001594880465
   dest:
@@ -23,7 +23,7 @@ forwards:
 - source: -1001510461643
   dest:
   - -1001629085523
-  offset: 975
+  offset: 978
   end: 0
 - source: -1001659218628
   dest:
@@ -33,12 +33,12 @@ forwards:
 - source: -1001863444289
   dest:
   - -1001623491945
-  offset: 1436
+  offset: 1480
   end: 0
 - source: -1001485569901
   dest:
   - -1001777680062
-  offset: 3793
+  offset: 3823
   end: 0
 show_forwarded_from: false
 live:
